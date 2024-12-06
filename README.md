@@ -17,7 +17,7 @@ We observe that most of the buyers are women. With women being 64% of overall bu
 ## Comparison by Age and Gender 
 ![v5](https://github.com/user-attachments/assets/dfc1ea7d-b568-4392-aed6-692a6f51186e)
 
-The age group is categorized as, those above 50 years of age are considered Senior, above 30 are Adults and below 30 are Teens.
+The age group is categorized as, those above 50 years of age are considered Senior, above 30 are Adults and above 30 are Teens.
 We see that the top consumers are Women below 30 years
 
 ## Channels
